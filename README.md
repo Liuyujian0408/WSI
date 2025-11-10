@@ -1,9 +1,6 @@
-# WSI
-Learning Whole Slide Image Representations from Few High-Resolution Patches via Cascaded Dual-Scale Reconstruction
+# Learning Whole Slide Image Representations from Few High-Resolution Patches via Cascaded Dual-Scale Reconstruction
 
-# Cascaded Dual-Scale Reconstruction (CDSR)
-
-This repository contains the implementation of **CDSR**, a cascaded dual-scale framework designed for feature extraction from high-resolution whole slide image (WSI) patches. The framework is tailored to extract informative representations from multi-scale views of WSI patches for downstream tasks.
+This repository contains the implementation of **Cascaded Dual-Scale Reconstruction (CDSR)**, a cascaded dual-scale framework designed for feature extraction from high-resolution whole slide image (WSI) patches. The framework is tailored to extract informative representations from multi-scale views of WSI patches for downstream tasks.
 
 ## Project Overview
 
@@ -24,7 +21,8 @@ The reconstruction results can be found in the file:
 - `QHVAE/c16_fig_recon_test/reconstruction_comparison.jpg`
 - `L2G_Net/c16_fig_recon_test/reconstruction_comparison.jpg`
 
-> **Note**:  We have not included the pretrained `.pt` model files in this repository.
+> **Note:** Pretrained `.pt` model files are not included in this repository. The complete codebase will be released upon acceptance of the manuscript.
+
 
 ## Inference Guide
 
