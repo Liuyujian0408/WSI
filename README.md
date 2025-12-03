@@ -32,6 +32,7 @@ To test the reconstruction quality:
    - Load test patches
    - Run the model for inference
    - Visualize original vs reconstructed patches
-   - Compute quality metrics (e.g., PSNR)
+   - Compute quality metrics (e.g., PSNR)  
 
 
+Currently under review
